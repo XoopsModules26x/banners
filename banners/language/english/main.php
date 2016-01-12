@@ -17,7 +17,6 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 //index.php
 //define("_MD_BANNERS_INDEX_CLIENTNAME", "Displaying active banners for client: %s");

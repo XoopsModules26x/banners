@@ -17,6 +17,5 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id: $
  */
 require_once dirname(dirname(dirname(__DIR__))) . '/include/cp_header.php';
