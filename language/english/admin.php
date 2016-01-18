@@ -17,7 +17,6 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 //generic
 define("_AM_BANNERS_ACTION","Action");

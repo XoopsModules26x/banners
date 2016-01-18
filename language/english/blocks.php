@@ -17,7 +17,6 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 define("_MB_BANNERS_DISP","Display");
 define("_MB_BANNERS","Banners");

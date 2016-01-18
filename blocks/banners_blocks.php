@@ -17,7 +17,6 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Gregory (AKA Mage)
- * @version         $Id$
  */
 function banners_blocks_show($options) {
     $block = array();

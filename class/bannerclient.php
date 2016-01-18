@@ -17,7 +17,6 @@
  * @package         banners
  * @since           2.6.0
  * @author          Mage Gregory (AKA Mage)
- * @version         $Id$
  */
 
 use Xoops\Core\Database\Connection;
